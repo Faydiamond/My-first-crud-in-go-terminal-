@@ -1,0 +1,9 @@
+1- create the user and pass in mysql : Testt:2022*
+
+2- import the BkpDevelopers.sql in your mysql
+
+3- dowload this project
+
+4- in the terminal execute the command : go run main.go
+
+5- use the menu in the terminal
